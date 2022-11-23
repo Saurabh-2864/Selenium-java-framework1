@@ -94,5 +94,6 @@
 	<classpathentry kind="lib" path="D:/Jar Files/jsr305-3.0.2.jar"/>
 	<classpathentry kind="lib" path="D:/Jar Files/slf4j-api-1.7.36.jar"/>
 	<classpathentry kind="lib" path="D:/Jar Files/testng-7.6.1.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
